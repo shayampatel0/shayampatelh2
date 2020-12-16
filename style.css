@@ -1,4 +1,4 @@
-.footer {
+footer {
     position: fixed;
     left: 0;
     bottom: 0;
@@ -6,4 +6,16 @@
     background-color: red;
     color: white;
     text-align: center;
-    
+}
+header{
+    text-align: center;
+    color: black;
+    background-color: slategrey;
+    font-size: 75px;
+}
+
+.footer{
+    bottom: 0;
+    position: fixed;
+
+}
