@@ -21,7 +21,13 @@ header{
 .dark-mode{
     filter: invert(100%);
 }
- 
+.project{
+    color: cornsilk;
+    font-size: 45px;
+    font-family: sans-serif;
+    
+} 
+
 .image{
     display: block;
     margin-left: auto;
